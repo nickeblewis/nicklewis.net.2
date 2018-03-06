@@ -11,7 +11,7 @@ const IndexPage = props => {
       <div className={styles.hero}>
         <h1>Hi.</h1>
         <p>
-          I&apos;m Nick Lewis, a Senior UX Developer with five years of industry experience, specializing in developing
+          I&apos;m Nick Lewis, a freelance UX Developer with many years of industry experience, specializing in developing
           React apps with the best UX users can get.
         </p>
       </div>
